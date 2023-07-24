@@ -37,6 +37,7 @@ Conv1d Layer: 0.25639158
 N-Beats: 0.25508267
 
 Multivariate Data:
+
 Deep Learning Sequential Model: 0.24326369 
 Conv1d Layer: 0.24235931 
 LSTM Model: 0.23851517 
