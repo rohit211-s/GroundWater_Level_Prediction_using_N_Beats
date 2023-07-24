@@ -31,11 +31,11 @@ Results:
 
 Univariate Data(RMSE):
 
-Deep Learning Sequential Model: 0.25655594   LSTM Model: 0.2584401   Conv1d Layer: 0.25639158   N-Beats: 0.25508267
+Deep Learning Sequential Model: 0.25655594 ||  LSTM Model: 0.2584401 ||  Conv1d Layer: 0.25639158 ||  N-Beats: 0.25508267
 
 Multivariate Data(RMSE):
 
-Deep Learning Sequential Model: 0.24326369   Conv1d Layer: 0.24235931   LSTM Model: 0.23851517   N-Beats: 0.23459317
+Deep Learning Sequential Model: 0.24326369  || Conv1d Layer: 0.24235931  ||   LSTM Model: 0.23851517 ||  N-Beats: 0.23459317
 
 6. Usage:
 - The code for data preprocessing, model training, and evaluation can be found in the respective directories.
