@@ -27,12 +27,25 @@ By using multivariate time series data, we aimed to capture the complex relation
 4. Conclusion:
 This project explores two different approaches for groundwater level prediction, using both univariate and multivariate data analyses. By training N-Beats, LSTM, and Conv1d Layer models on univariate data and incorporating additional environmental features for multivariate analysis, we aim to develop accurate and robust predictive models. The outcome of this project has significant implications for water resource management, environmental preservation, and sustainable planning.
 
-5. Usage:
+Results:
+
+Univariate Data:
+
+Deep Learning Sequential Model: 0.25655594 
+LSTM Model: 0.2584401 
+Conv1d Layer: 0.25639158 
+N-Beats: 0.25508267
+
+Multivariate Data:
+Deep Learning Sequential Model: 0.24326369 
+Conv1d Layer: 0.24235931 
+LSTM Model: 0.23851517 
+N-Beats: 0.23459317
+
+6. Usage:
 - The code for data preprocessing, model training, and evaluation can be found in the respective directories.
 - The dataset used for this project is described in the data directory.
 - Additional details about the models, hyperparameters, and evaluation metrics can be found in the corresponding code files.
 
 Please refer to the specific code files and directories for more detailed information and to reproduce the experiments and results presented in this project.
 
-For any questions or inquiries, please contact:
-[Your Contact Information]
