@@ -1,4 +1,9 @@
 # GroundWater_Level_Prediction_using_N_Beats
+
+##Abstract
+Forecasting groundwater availability is essential for the future sustainable management of water resources. However, predicting groundwater levels is complicated, given the involvement of var-ious interacting elements such as precipitation, topography, land use, and groundwater extraction. Hydrological process-based prediction methods using numerical models for assessing aquifer conditions can be slow and uncertain. Thus, recent years have seen an increase in application of artificial intelligence (AI) to understand and anticipate changes in the water table. In this research, to compare the machine learning (ML) and deep learning (DL) methods, one of each was selected: the gradient boosting model (XGBoost) and a deep learning model (CNN-LSTM) driven with a 21-year dataset of daily rainfall and groundwater level data at a subtropical ranchland in Florida. Both models performed well during the training and testing phases. The training phase reported Root Mean Square Error (RMSE) values of 0.03m for XGBoost and 0.06m for CNN-LSTM. For the testing phase, the RMSE values were 0.067m for XGBoost and 0.064m for CNN-LSTM. The study found that the XGBoost model delivered the best results. This study contributes to developing AI methods that can be applied to forecasting groundwater levels in areas with limited groundwater data. However, the shallow groundwater level and high fluctuations in the study area could im-pact the modeling results.
+
+
 Training N-beats model on GroundWater Level data and comparing it with other deep learning models like LSTM, Conv1d Layer and Sequential Deep Learning model. 
 
 Groundwater Level Prediction Readme
